@@ -166,7 +166,7 @@ Filter through contact list based on what stage the applicant is in.
 Format: `filter /stage <ApplicantStage>`
 
 * Filters the contact list based on the `<ApplicantStage>` provided.
-* Possible values for `<Applicant>` are `Initial Application`, `Technical Assessment`, `Interview`, `Decision & Offer`.
+* Possible values for `<ApplicantStage>` are `Initial Application`, `Technical Assessment`, `Interview`, `Decision & Offer`.
 
 Examples:
 * `filter /stage Interview` filters the contact list to show only applicants in the Interview stage.
